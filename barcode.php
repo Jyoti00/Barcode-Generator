@@ -25,5 +25,4 @@
 			JsBarcode("#barcode", inputtext);
 		}
 	</script>
-
 </html>
